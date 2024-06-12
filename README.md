@@ -1,3 +1,5 @@
+![Logo](https://avatars.githubusercontent.com/u/151680118?s=200&v=4 "Logo")
+
 # JS Libraries for Salesforce Commerce Cloud B2C #
 
 This repository contains libraries converted and tested to work with the latest version of Salesforce Commerce Cloud B2C (Formerly Demandware).
@@ -120,10 +122,14 @@ Currently the same setup is used as SFRA. You can run a linting test with:
  npm run lint
 ```
 
-# Contributing
-I am always looking for more interesting libraries that we could use in Commerce Cloud but require testing or need migration.
+Contributing
+---
 
-If you yourself are unable to convert a library and want met to have a look, feel free to mail me at thomas.theunen@forward.eu.
+> Are you interested in making this tool better?  Fork this Repository, and we'll gladly accept Pull Requests.
 
-If you want to contribute code feel free to read the
-[contributing](./CONTRIBUTING.md) readme.
+[![Contribution Guide](https://img.shields.io/badge/Contribution_Guide-EEEEEE.svg?logo=github&logoColor=black&style=for-the-badge)](https://github.com/opensfcc/sandbox-launchd/blob/develop/.github/CONTRIBUTING.md)
+
+Disclaimer
+---
+
+> The trademarks and product names of Salesforce®, including the mark Salesforce®, are the property of Salesforce.com. OpenSFCC is not affiliated with Salesforce.com, nor does Salesforce.com sponsor or endorse the OpenSFCC products or website. The use of the Salesforce® trademark on this project does not indicate an endorsement, recommendation, or business relationship between Salesforce.com and OpenSFCC.
