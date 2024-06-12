@@ -127,7 +127,7 @@ Contributing
 
 > Are you interested in making this tool better?  Fork this Repository, and we'll gladly accept Pull Requests.
 
-[![Contribution Guide](https://img.shields.io/badge/Contribution_Guide-EEEEEE.svg?logo=github&logoColor=black&style=for-the-badge)](https://github.com/opensfcc/sandbox-launchd/blob/develop/.github/CONTRIBUTING.md)
+[![Contribution Guide](https://img.shields.io/badge/Contribution_Guide-EEEEEE.svg?logo=github&logoColor=black&style=for-the-badge)](CONTRIBUTING.md)
 
 Disclaimer
 ---
